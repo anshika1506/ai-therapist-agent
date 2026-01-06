@@ -8,7 +8,7 @@
 
 > An autonomous AI therapist powered by advanced NLP and emotional intelligence, providing personalized mental health support while ensuring privacy through blockchain technology. Built on Sonic Blaze Testnet with Zerepy agents.
 
-## 📸 Project Showcase
+##  Project Showcase
 
 <div align="center">
   <img src="https://i.imghippo.com/files/uath6507iKU.png" alt="Aura Dashboard" width="45%" />
